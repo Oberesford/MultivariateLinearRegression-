@@ -1,4 +1,7 @@
 # MultivariateLinearRegression
+
+- Unfortunately due to the lack of GPUs available, I am unable to branch out and start doing proper ML And Deeplearning tasks.
+
 This is a simple project designed so everyone can understand how to write a similar script. 
 
 This prodject uses Multivarite Linear Reggresion to fit a "line of best fit" to our data so it can estimate a value for our desired data (In this prodjets case, Life expectancy) 
